@@ -46,6 +46,7 @@ public class Base {
     protected Response response;
     protected JsonPath jsonPath;
 
+    //Browser choice enum
     public enum BrowserTypes {
         CHROME("chrome"),
         FIREFOX("firefox"),
